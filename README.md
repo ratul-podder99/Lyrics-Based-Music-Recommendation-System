@@ -4,25 +4,6 @@ This repository contains a lyrics-based music recommendation system that recomme
 
 The project uses transformer-based sentence embeddings, emotion classification, topic modeling, and FAISS similarity search to build a fast recommendation pipeline. A Streamlit web app is also included for interactive song recommendation.
 
-## Recommended Repository Name
-
-```text
-Lyrics-Based-Music-Recommendation-System
-```
-
-Alternative names:
-
-```text
-Music-Recommendation-System-Using-Lyrics
-```
-
-```text
-Semantic-Music-Recommender
-```
-
-```text
-Lyrics-Recommender-with-BERT-FAISS
-```
 
 ## Project Overview
 
